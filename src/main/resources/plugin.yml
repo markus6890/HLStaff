@@ -1,0 +1,15 @@
+main: com.gmail.markushygedombrowski.HLStaff
+name: HLStaff
+version: 1.0
+author: Markus Hyge Dombrowski
+depend: [NametagEdit,TAB,PlaceholderAPI]
+commands:
+  vanish:
+    aliases: ["v"]
+    description: Vanish Command
+  sc:
+    aliases: ["staffchat"]
+    description: Staffchat Command
+  buildprotect:
+    aliases: ["bp"]
+    description: Buildprotect Command
